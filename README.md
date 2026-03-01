@@ -1,58 +1,55 @@
 <h1 align="center">Kauã Silva</h1>
 
 <p align="center">
-  Full Stack Developer focused on Backend Engineering
-</p>
-
-<p align="center">
+  Full Stack Developer<br/>
   🎓 Technical Degree in Systems Analysis and Development <br>
   🎓 Computer Science Student
 </p>
 
----
-
-## 🚀 Core Skills
-
-### Backend
-- Node.js
-- TypeScript
-- Fastify
-- Prisma ORM
-
-### Databases
-- PostgreSQL
-- MySQL
-
-### Frontend
-- React
-- JavaScript
-
-### Security & Architecture
-- JWT Authentication (Access & Refresh Tokens)
-- Password Hashing (bcrypt)
-- Token Rotation Strategy
-- Environment Configuration
-- Modular Backend Architecture
-
-### Tools & Environment
-- Docker
-- Git
-- Linux
-- XAMPP
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaua-silvaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaua60033@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📚 Areas of Study
+## ⚡ Technologies
 
-- API Architecture
-- Clean Architecture
-- System Design Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Fastify-111?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma&logoColor=2D3748" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=316192" />
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/XAMPP-111?style=for-the-badge&logo=apache&logoColor=FB7A24" />
+</p>
+
+---
+
+## 📚 Knowledge Areas
+
+- API Development
+- Authentication with JWT
+- Secure Password Hashing (bcrypt)
 - Relational Database Modeling
-- Secure Backend Practices
+- Backend Architecture
+- System Design Fundamentals
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-LinkedIn: https://www.linkedin.com/in/kaua-silvaa  
-Email: kaua60033@gmail.com
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauasilvaa&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauasilvaa&layout=compact&theme=tokyonight" />
+</p>
